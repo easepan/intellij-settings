@@ -1,0 +1,19 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
+    </option>
+    <option name="disabledGrammarStrategies">
+      <set>
+        <option value="Pythonid:Python" />
+        <option value="org.jetbrains.plugins.go:go" />
+        <option value="tanvd.grazi:JAVA" />
+        <option value="tanvd.grazi:JSON" />
+        <option value="tanvd.grazi:Properties" />
+      </set>
+    </option>
+  </component>
+</application>

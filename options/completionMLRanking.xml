@@ -1,0 +1,10 @@
+<application>
+  <component name="CompletionMLRankingSettings">
+    <option name="language2state">
+      <map>
+        <entry key="Go" value="true" />
+        <entry key="Java" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

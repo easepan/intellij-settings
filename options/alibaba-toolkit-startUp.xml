@@ -1,0 +1,14 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/Projects/Java/cmdassist-wetool-plugin" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/hutool" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/hutool-cli" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/lifetime" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/lifetime-wetool-plugin" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/wetool" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/wetool-plugin" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/wetool-plugin/wetool-plugin-dbops" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/Java/wetool-plugin/wetool-plugin-devtool/wetool-plugin-devtool-redis" startUpFlag="FIRST" />
+  </component>
+</application>
