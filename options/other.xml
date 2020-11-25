@@ -1,0 +1,80 @@
+<application>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="C:/Program Files/SceneBuilder/SceneBuilder.exe" />
+    <option name="myPathToSceneBuilder" value="C:/Program Files/SceneBuilder/SceneBuilder.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ArthasIdeaPluginspringContextStaticOgnlExpression" value="@applicationContextProvider@context" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.59838897" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6526104" />
+    <property name="DEFAULT_CONNECT_TIMEOUT" value="20000" />
+    <property name="DEFAULT_SSH_LIBRARY" value="SSHJ" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Go File" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="InstalledPluginsSearchHistory" value="settings&#10;setting&#10;settin&#10;setti&#10;settins" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="change sig&#10;collapse&#10;colla&#10;terminal&#10;move state" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="MarketplacePluginsSearchHistory" value="lombok&#10;lom&#10;hjson&#10;h&#10;go" />
+    <property name="MavenHelper.lastRadioButton" value="list" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="NonModalCommitPromotionState" value="SHOWN" />
+    <property name="POSTMAN_SETTINGS" value="eyJlbmFibGVkIjpmYWxzZX0=" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SLS_MODEL_KEY" value="{&quot;enabled&quot;:false,&quot;compileEnabled&quot;:false,&quot;deployEnabled&quot;:false,&quot;customContent&quot;:&quot;&quot;}" />
+    <property name="SettingsSearchHistory" value="update&#10;proxy&#10;file enco&#10;line separa&#10;go" />
+    <property name="SplitFileEditor.Proportion" value="0.61946905" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IU-202.7319.50-9135d876c8ca4efba68d2ce52f0a7b69849805865d6a9b3ec0028911046480f8" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.9.2" />
+    <property name="codota_token" value="IxtRQPudM1uNJnovnAzp/aA7y7Zl0/k5ILwN0OP2494IanA8I9KpID8yw5jy+bqgnVL2keT/kvPJ9LUr8lLsZk/toiYyalgG" />
+    <property name="com.alibabacloud.intellij.deviceId_new" value="a0950d60-8e58-4b4e-8cd1-7f85c53c01e3" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.202" value="16" />
+    <property name="export.settings.path" value="C:\Users\pantao\Downloads\settings.zip" />
+    <property name="file.chooser.recent.files" value="D:/Projects/Java/cmdassist-wetool-plugin&#10;D:/Projects/Java/lifetime-wetool-plugin&#10;D:/Projects/Java/lifetime&#10;C:/Users/pantao/Downloads/settings.zip&#10;D:/Projects/backup/intellij-settings&#10;D:/Projects/Java/wetool-plugin&#10;D:/Projects/Java/wetool-plugin/wetool-plugin-dbops/pom.xml&#10;D:/Projects/Java/wetool-plugin/wetool-plugin-devtool/wetool-plugin-devtool-redis&#10;D:/Projects/Java/wetool-plugin/wetool-plugin-dbops&#10;D:/Projects/Java/wetool-plugin/wetool-plugin-support/pom.xml&#10;D:/Projects/Java/wetool&#10;D:/Projects/Java/hutool-cli&#10;C:/Program Files/SceneBuilder/SceneBuilder.exe&#10;D:/Projects/Java/hutool&#10;Z:/webfile/gopath&#10;D:/GoPath&#10;D:/App/jdk-11.0.6&#10;E:/MyFiles/Temp/settings.zip" />
+    <property name="file.gist.reindex.count" value="1959" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="go.disabled.pty.on.windows.again" value="true" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-6" />
+    <property name="js.field.names.completion" value="false" />
+    <property name="js.opt.chain.completion" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
+    <property name="lastSeenTip" value="neue-JoinLines.html" />
+    <property name="lastTimeTipsWereShown" value="1606311967119" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/settings.zip" />
+    <property name="org.jetbrains.plugins.go.LAST_UPDATE" value="1604552763169" />
+    <property name="org.jetbrains.plugins.go.LAST_VERSION" value="202.7319.50" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1606311961041" />
+    <property name="rainbow.selected.color.option.name" value="Round Brackets" />
+    <property name="seenTips" value="neue-CancelByControlArrows.html,neue-JoinLines.html" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Java EE Names" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+</application>

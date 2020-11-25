@@ -1,0 +1,129 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/Projects/Java/hutool">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jPmznZg2JO4Q7FNeahvflHMxoM">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122175412" />
+              <frame x="0" y="0" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1604489605369" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/hutool-cli">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jSXG6s3m2DYJ5ex3lmSZly6C7R">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122159204" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1604983466760" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/wetool-plugin/wetool-plugin-devtool/wetool-plugin-devtool-redis">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jPn5JZiD4UUbyWY4ohhZ68rELB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122165569" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1605095895752" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/wetool-plugin/wetool-plugin-dbops">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1k8t1QFETiIE2P2GVlkDbUt7O8l">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122162421" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1605180357177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/wetool">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1iPB75t2j3cl92G74ToeZzQ24Jf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122121067" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1605855912145" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/lifetime">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1iSJWgE9mq4hmDRyJPyiSlQjouO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122176247" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1605955179695" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/lifetime-wetool-plugin">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1kb2T4tFlVabwhdBDgL0YohF95S">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122176247" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1605955618057" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/cmdassist-wetool-plugin">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1iRt8yzLJ8FraS73HMorxJHxNXJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122176247" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1605955638148" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Projects/Java/wetool-plugin">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1jLlwFct5d2NGmJKstX46W3nCMJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7319.50" />
+              <option name="buildTimestamp" value="1600122125769" />
+              <frame x="-8" y="-8" width="1936" height="1065" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1606312090918" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/Projects/Java" />
+    <option name="recentPaths">
+      <list>
+        <option value="D:/Projects/Java/wetool-plugin" />
+        <option value="D:/Projects/Java/cmdassist-wetool-plugin" />
+        <option value="D:/Projects/Java/lifetime-wetool-plugin" />
+        <option value="D:/Projects/Java/lifetime" />
+        <option value="D:/Projects/Java/wetool" />
+        <option value="D:/Projects/Java/wetool-plugin/wetool-plugin-dbops" />
+        <option value="D:/Projects/Java/wetool-plugin/wetool-plugin-devtool/wetool-plugin-devtool-redis" />
+        <option value="D:/Projects/Java/hutool-cli" />
+        <option value="D:/Projects/Java/hutool" />
+      </list>
+    </option>
+  </component>
+</application>

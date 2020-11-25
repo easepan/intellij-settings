@@ -1,0 +1,6 @@
+<application>
+  <component name="Go">
+    <option name="enableTypeParametersSupport" value="true" />
+    <option name="showDocumentationInParameterPopup" value="true" />
+  </component>
+</application>
