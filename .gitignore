@@ -12,3 +12,13 @@ port
 port.lock
 plugins
 disabled_plugins.txt
+eval
+actionSummary.xml
+alibaba-toolkit-startUp.xml
+debugger.xml
+other.xml
+path.macros.xml
+recentProjects.xml
+window.state.xml
+jdk.table.xml
+usage.statistics.xml

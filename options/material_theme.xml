@@ -8,6 +8,7 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
