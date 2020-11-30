@@ -10,6 +10,7 @@
     <mask>*r.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.md</mask>
     <mask>pom.xml</mask>
   </component>
 </application>

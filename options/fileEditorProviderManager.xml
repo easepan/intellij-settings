@@ -2,6 +2,7 @@
   <component name="FileEditorProviderManager">
     <option name="selectedProviders">
       <map>
+        <entry key="text-editor,JavaFX-Scene-Builder" value="text-editor" />
         <entry key="text-editor,MavenHelperPluginDependencyAnalyzer" value="MavenHelperPluginDependencyAnalyzer" />
       </map>
     </option>
